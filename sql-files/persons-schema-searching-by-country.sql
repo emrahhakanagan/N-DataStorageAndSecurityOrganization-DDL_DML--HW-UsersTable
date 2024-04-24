@@ -1,0 +1,1 @@
+SELECT name, surname FROM persons WHERE country_of_living = 'Russia';
